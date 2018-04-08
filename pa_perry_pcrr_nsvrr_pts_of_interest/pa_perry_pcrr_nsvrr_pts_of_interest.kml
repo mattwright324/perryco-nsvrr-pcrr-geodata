@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="pa_perry_pcrr_nsvrr_pts_of_interest" id="pa_perry_pcrr_nsvrr_pts_of_interest">
+	<SimpleField name="id" type="int"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="desc" type="string"></SimpleField>
+</Schema>
+<Folder><name>pa_perry_pcrr_nsvrr_pts_of_interest</name>
+  <Placemark>
+	<name>Bloomfield Junction</name>
+	<ExtendedData><SchemaData schemaUrl="#pa_perry_pcrr_nsvrr_pts_of_interest">
+		<SimpleData name="id">0</SimpleData>
+		<SimpleData name="type">junction</SimpleData>
+		<SimpleData name="desc">Famed bloomfield junction where the Perry County RR was denied passage over the N&amp;SVRR. The two rails then traveled onto Elliottsburg.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.2318414713423,40.4046214531719</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Newport Train Station</name>
+	<ExtendedData><SchemaData schemaUrl="#pa_perry_pcrr_nsvrr_pts_of_interest">
+		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="type">station</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.1293428031195,40.4779751647017</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Newport Wye</name>
+	<ExtendedData><SchemaData schemaUrl="#pa_perry_pcrr_nsvrr_pts_of_interest">
+		<SimpleData name="id">2</SimpleData>
+		<SimpleData name="type">wye</SimpleData>
+		<SimpleData name="desc">Track formation to allow trains to turn around and head in the other direction.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.1384004674128,40.4660063470506</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>N&amp;SV RR Trace</name>
+	<ExtendedData><SchemaData schemaUrl="#pa_perry_pcrr_nsvrr_pts_of_interest">
+		<SimpleData name="id">3</SimpleData>
+		<SimpleData name="type">trail</SimpleData>
+		<SimpleData name="desc">This is a walking trail that can be found at Little Buffalo State Park near the parking for the pool.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.1877597243442,40.4515341380505</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Water Plug Station</name>
+	<ExtendedData><SchemaData schemaUrl="#pa_perry_pcrr_nsvrr_pts_of_interest">
+		<SimpleData name="id">4</SimpleData>
+		<SimpleData name="type">station</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.203769396656,40.4460393778667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Duncannon Station</name>
+	<ExtendedData><SchemaData schemaUrl="#pa_perry_pcrr_nsvrr_pts_of_interest">
+		<SimpleData name="id">5</SimpleData>
+		<SimpleData name="type">station</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0296533477523,40.3896696224647</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Montebello Park</name>
+	<ExtendedData><SchemaData schemaUrl="#pa_perry_pcrr_nsvrr_pts_of_interest">
+		<SimpleData name="id">6</SimpleData>
+		<SimpleData name="type">park</SimpleData>
+		<SimpleData name="desc">Management of the railrad established a park here, also known as Perry County Park, Montebello, or Paradise. It hosted meetings, reunions, church events, and parties. The biggest event took place on July 4th, 1891 where over 2000 people attended.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0819070464837,40.4237979656748</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wagner Community Park</name>
+	<ExtendedData><SchemaData schemaUrl="#pa_perry_pcrr_nsvrr_pts_of_interest">
+		<SimpleData name="id">7</SimpleData>
+		<SimpleData name="type">trail</SimpleData>
+		<SimpleData name="desc">Right down the center of this park is a walking trail following the exact path the Perry County RR had ran. The trail goes further over a small bridge into the woods for a distance.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.090329671583,40.4262779608429</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>N&amp;SV RR Trace</name>
+	<ExtendedData><SchemaData schemaUrl="#pa_perry_pcrr_nsvrr_pts_of_interest">
+		<SimpleData name="id">8</SimpleData>
+		<SimpleData name="type">trail</SimpleData>
+		<SimpleData name="desc">The second railroad trace walking trail can be found in Little Buffalo State Park near Shoaffs Mill. At the end near the dam is also one of the train carts up for display.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.1699903250027,40.4551254518082</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>N&amp;SV RR Cart</name>
+	<ExtendedData><SchemaData schemaUrl="#pa_perry_pcrr_nsvrr_pts_of_interest">
+		<SimpleData name="id">9</SimpleData>
+		<SimpleData name="type">cart</SimpleData>
+		<SimpleData name="desc">Cart and tracks for display at the end of the trace.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.1716949038919,40.4539756966359</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Train Ln</name>
+	<ExtendedData><SchemaData schemaUrl="#pa_perry_pcrr_nsvrr_pts_of_interest">
+		<SimpleData name="id">10</SimpleData>
+		<SimpleData name="type">road</SimpleData>
+		<SimpleData name="desc">A small section of road that runs the exact path of the Perry County RR, named Train Ln.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.1811335917016,40.4174108083078</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Loysville Station</name>
+	<ExtendedData><SchemaData schemaUrl="#pa_perry_pcrr_nsvrr_pts_of_interest">
+		<SimpleData name="id">11</SimpleData>
+		<SimpleData name="type">station</SimpleData>
+		<SimpleData name="desc">For a time, one of the stations used to operate here in conjunction with the mill at the same location. A shipping point for grains and other items.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.3452243771191,40.3666310689688</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Blain RR Bridge</name>
+	<ExtendedData><SchemaData schemaUrl="#pa_perry_pcrr_nsvrr_pts_of_interest">
+		<SimpleData name="id">12</SimpleData>
+		<SimpleData name="type">bridge</SimpleData>
+		<SimpleData name="desc">A bridge used by the railroad at one point and still open for public use today.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.5084528461573,40.3341371161054</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Blain Station</name>
+	<ExtendedData><SchemaData schemaUrl="#pa_perry_pcrr_nsvrr_pts_of_interest">
+		<SimpleData name="id">13</SimpleData>
+		<SimpleData name="type">station</SimpleData>
+		<SimpleData name="desc">This station has been restored and displays a cart and tracks on one side in line with the bridge.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.5093151625366,40.3340652564072</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Blain RR Cart</name>
+	<ExtendedData><SchemaData schemaUrl="#pa_perry_pcrr_nsvrr_pts_of_interest">
+		<SimpleData name="id">14</SimpleData>
+		<SimpleData name="type">cart</SimpleData>
+		<SimpleData name="desc">Cart and tracks for display beside a station in Blain.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.5091797989189,40.334036846759</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>New Germantown Station</name>
+	<ExtendedData><SchemaData schemaUrl="#pa_perry_pcrr_nsvrr_pts_of_interest">
+		<SimpleData name="id">15</SimpleData>
+		<SimpleData name="type">station</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.5687757205419,40.3082199967893</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Big Spring Tunnel</name>
+	<ExtendedData><SchemaData schemaUrl="#pa_perry_pcrr_nsvrr_pts_of_interest">
+		<SimpleData name="id">16</SimpleData>
+		<SimpleData name="type">tunnel</SimpleData>
+		<SimpleData name="desc">An incomplete tunnel along a walking train at the Big Spring State Park. The tunnel reaches approximately 100 feet into the mountain before stopping. The tunnel on the other side of the mountain had collapsed and is one of the reasons this tunnel failed.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.652192296563,40.2616925133165</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Royer Station</name>
+	<ExtendedData><SchemaData schemaUrl="#pa_perry_pcrr_nsvrr_pts_of_interest">
+		<SimpleData name="id">17</SimpleData>
+		<SimpleData name="type">station</SimpleData>
+		<SimpleData name="desc">Stop where passengers would board.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.1377782534484,40.4229380686547</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mahanoy Station</name>
+	<ExtendedData><SchemaData schemaUrl="#pa_perry_pcrr_nsvrr_pts_of_interest">
+		<SimpleData name="id">18</SimpleData>
+		<SimpleData name="type">station</SimpleData>
+		<SimpleData name="desc">Stop where passengers would board.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.1549886291603,40.4181487287656</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Roddy Station</name>
+	<ExtendedData><SchemaData schemaUrl="#pa_perry_pcrr_nsvrr_pts_of_interest">
+		<SimpleData name="id">19</SimpleData>
+		<SimpleData name="type">station</SimpleData>
+		<SimpleData name="desc">Stop where passengers would board.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.1012422603171,40.4315282334872</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dums Station</name>
+	<ExtendedData><SchemaData schemaUrl="#pa_perry_pcrr_nsvrr_pts_of_interest">
+		<SimpleData name="id">20</SimpleData>
+		<SimpleData name="type">station</SimpleData>
+		<SimpleData name="desc">Stop where passengers would board.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.2710144441898,40.3948059548645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hoffman Station</name>
+	<ExtendedData><SchemaData schemaUrl="#pa_perry_pcrr_nsvrr_pts_of_interest">
+		<SimpleData name="id">21</SimpleData>
+		<SimpleData name="type">station</SimpleData>
+		<SimpleData name="desc">Stop where passengers would board.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.1291249919173,40.4251885175738</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>New Germantown Wye</name>
+	<ExtendedData><SchemaData schemaUrl="#pa_perry_pcrr_nsvrr_pts_of_interest">
+		<SimpleData name="id">22</SimpleData>
+		<SimpleData name="type">wye</SimpleData>
+		<SimpleData name="desc">Track formation to allow trains to turn around and head in the other direction. The track continues a little longer distance past this wye but does not reach the failed tunnel near the park.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.5709081985777,40.3068502070034</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
